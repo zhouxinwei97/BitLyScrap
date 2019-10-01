@@ -3,7 +3,8 @@ from bs4.element import Tag
 
 
 def find_title_links(soup, titles_list, bit_ly_links):
-    new_file = open('Sept.txt', "w+")
+    output_file_name = input("Enter output file name")
+    new_file = open(output_file_name, "w+")
     titles = soup.findAll("div", {"class":"text"})
     i = 1
     for num_titles in range(1,len(titles)):
@@ -29,7 +30,8 @@ def find_title_links(soup, titles_list, bit_ly_links):
     new_file.close()
 
 def main():
-    html_file = open("messages.html")
+    filename = input("Input File Name")
+    html_file = open(filename)
     soup = BeautifulSoup(html_file, 'html.parser')
     bit_ly_links = []
     titles_list = []

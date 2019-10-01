@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09505d44-04a1-49a1-a710-c4b9705986c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Click_Sept.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Click_Sept.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bitly_clicks.py" beforeDir="false" afterPath="$PROJECT_DIR$/bitly_clicks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram_chat_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegram_chat_parser.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.telegram_chat_parser">
     <configuration name="Testscrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebScrapperTelegram" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,8 +177,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.telegram_chat_parser" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.bitly_clicks" />
         <item itemvalue="Python.Testscrap" />
         <item itemvalue="Python.Webscrapper" />
@@ -205,7 +203,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

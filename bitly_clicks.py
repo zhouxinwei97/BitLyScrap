@@ -18,7 +18,11 @@ def num_clicks(position_of_clicks, relevant):
 
 
 def main():
-    clicks_file = open("Click_Sept.txt", "a")
+    " python3 bitly_clicks.py < test.txt testresult.txt "
+    "format: test.txt = input file, testresult.txt = output file"
+
+    output_file_name = sys.argv[1]
+    clicks_file = open(output_file_name, "w+")
     lines = []
     print("Processing:")
     for line in sys.stdin:
