@@ -30,6 +30,9 @@ def main():
         if "bit.ly" in lines[counter]:
             lines[counter] = "https://" + lines[counter] + "+"
 
+    #setup headless chrome
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
 
     clicksList = []
     for x in range(len(lines)):
@@ -37,8 +40,9 @@ def main():
         clicks_file.write(lines[x])
         clicks_file.write('\n')
 
+
         if "bit.ly" in lines[x]:
-            driver = webdriver.Chrome()
+            driver = webdriver.Chrome(options = options)
             driver.get(lines[x])
             clicks_wrapper = driver.find_elements_by_xpath('//*[@id="main"]/div/div[1]/div[3]/div[1]/div[1]/div/div[1]/span[1]')[0]
             clicks = clicks_wrapper.text
@@ -52,8 +56,10 @@ def main():
             # position_of_clicks = relevant[11].string.find("user_clicks") + 14
             # clicks = num_clicks(position_of_clicks, relevant)
 
+    clicks_file.close()
     counter = 0
     num_deals = 0
+    print("Printing results")
     for line in lines:
         if "bit.ly" in line:
             print(line, clicksList[counter])
@@ -63,8 +69,8 @@ def main():
             print(line)
 
 
-    print("total deals scrapped = ", num_deals/2)
-    clicks_file.close()
+    print("total deals scrapped = ", num_deals)
+
 
 
 if __name__ == "__main__":

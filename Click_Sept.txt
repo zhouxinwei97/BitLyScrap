@@ -24,7 +24,7 @@ https://bit.ly/2keBcbU+
   68
 Foodpanda: Free Delivery 🐼
 https://bit.ly/2RJnQjY+
-  4,441
+  4,442
 Sushi Express: $1++ Sushi
 https://bit.ly/2jSBlRY+
   354
@@ -143,7 +143,7 @@ https://bit.ly/2kvRTzK+
   114
 McDonald's: 40 Days of 1-For-1 Deals
 https://bit.ly/2JU7Yb5+
-  5,150
+  5,151
 Xing Fu Tang: 1-for-1
 https://bit.ly/2kHiKc2+
   298
@@ -203,7 +203,7 @@ https://bit.ly/2kQfFX1+
   361
 McDonald's: 1-For-1 Hot Fudge Sundae 🍦
 https://bit.ly/2lSsjoQ+
-  2,803
+  2,805
 Black Tap: Free Cheeseburger 🍔
 https://bit.ly/2kOUvZm+
   243
@@ -236,7 +236,7 @@ https://bit.ly/2medqx5+
   218
 McDonald's: 1-for-1 Big Mac 🍔
 https://bit.ly/2lSsjoQ+
-  2,803
+  2,805
 Kraftwich: 1-for-1 Sandwich
 https://bit.ly/2mka8IS+
   153
@@ -251,7 +251,7 @@ https://bit.ly/2kWnFWx+
   240
 McDonald's: 1-for-1 Big Breakfast
 https://bit.ly/2lSsjoQ+
-  2,803
+  2,805
 Soi 55: 55% off All Drinks 🥤
 https://bit.ly/2mvvPpz+
   135
@@ -260,10 +260,10 @@ https://bit.ly/2m2JZhu+
   331
 Sakae Sushi: $2.20 Norwegian Salmon Sashimi
 https://bit.ly/2kYiTrI+
-  219
+  220
 KFC: 6pcs Chicken for $9 🍗
 https://bit.ly/2ziLWKh+
-  1,034
+  1,046
 KFC: 1-for-1 Waffle Double Down
 https://bit.ly/2mJ7Kvq+
   1,043
@@ -300,7 +300,7 @@ https://bit.ly/2kGFmtl+
   687
 McDonald's: 1-for-1 McChicken® 🍔
 https://bit.ly/2lSsjoQ+
-  2,803
+  2,805
 Burger+: 100 Free Egg Toast with Ham & Cheese 🍔
 https://bit.ly/2m05MH9+
   148
@@ -318,25 +318,25 @@ https://bit.ly/2m8nkjH+
   113
 Playmade: 1-For-1 Chrysanthemum Milk Tea (L)
 https://bit.ly/2mD2gmd+
-  581
+  582
 McDonald's: 1-for-1 Sausage Egg McMuffin
 https://bit.ly/2lSsjoQ+
-  2,803
+  2,805
 Deliveroo: 25% off Gong Cha
 https://bit.ly/2nG69aj+
-  238
+  240
 Seoul Yummy: 1-for-1 Korean Shabu Shabu & Ala Carte Buffet
 https://bit.ly/2n1DJqN+
-  690
+  702
 OLDTOWN White Coffee: 50% off all ala-carte food items
 https://bit.ly/2n0pN0D+
-  76
+  77
 7-Eleven: Free Hot Coffee ☕️
 https://bit.ly/2ox6rAN+
-  268
+  271
 GrabFood: Up to 30% off
 https://bit.ly/30GIcOr+
-  411
+  413
 Westgate: Free Coffee ☕️
 https://bit.ly/2mbPcUx+
   55
@@ -351,4 +351,4 @@ https://bit.ly/2nfbANr+
   25
 Coffee Bean: 2 Small Lattes at $6 🥤
 https://bit.ly/2n6fNTJ+
-  134
+  141

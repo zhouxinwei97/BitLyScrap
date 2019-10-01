@@ -12,7 +12,9 @@ import requests
 base_url = ["https://bit.ly/2oMFEAt+", "https://bit.ly/2mbPcUx+"]
 
 for links in base_url:
-    driver = webdriver.Chrome()
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+    driver = webdriver.Chrome(options=options)
     driver.get(links)
     clicks_wrapper = driver.find_elements_by_xpath("/html/body/div/div/div[1]/div[3]/div[1]/div[1]/div/div[1]/span[1]")[0]
     clicks =clicks_wrapper.text
