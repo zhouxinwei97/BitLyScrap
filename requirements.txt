@@ -1,0 +1,4 @@
+pysftp==0.2.9
+selenium==3.141.0
+Telethon==1.10.6
+
